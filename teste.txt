@@ -1,0 +1,1 @@
+'''  este é uma arquivo de teste para estudos '''
