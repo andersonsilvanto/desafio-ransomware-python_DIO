@@ -27,3 +27,11 @@ Este projeto foi desenvolvido como um laboratório prático para fins puramente 
 
 ## ⚠️ Isenção de Responsabilidade
 Este código foi criado estritamente para o entendimento teórico de ameaças cibernéticas e conformidade com desafios de plataformas de ensino (como a DIO). O uso dessas ferramentas em ambientes sem autorização prévia é ilegal.
+
+## 📸 Demonstração Prática
+
+### Execução do Script de Criptografia
+![Tela do Encrypter](Imagens%20do%20projeto/NOME_DA_SUA_IMAGEM_1.png)
+
+### Execução do Script de Descriptografia
+![Tela do Decrypter](Imagens%20do%20projeto/NOME_DA_SUA_IMAGEM_2.png)
